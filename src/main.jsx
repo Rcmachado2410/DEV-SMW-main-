@@ -7,7 +7,7 @@ import "./styles/global.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter basename="/SMW-COMPANY">
+    <BrowserRouter basename="/DEV-SMW-main-/">
       <App />
     </BrowserRouter>
   </React.StrictMode>
